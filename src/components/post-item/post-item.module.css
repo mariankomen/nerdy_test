@@ -1,0 +1,25 @@
+.PostItem {
+   max-height: 1000px;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.NameAndData {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.NMDT {
+    height: 40px;
+    padding: 15px;
+}
+
+.description {
+    margin: 15px;
+    background-color: mediumspringgreen;
+    height: 100px;
+    font-size: 1.2rem;
+}
